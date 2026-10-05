@@ -1,5 +1,4 @@
-# SQLcontext
-# SQLContext
+# SqlContext
 
 **SQL injection input analyzer for learning and understanding SQLi syntax.**
 
@@ -66,7 +65,7 @@ The analyzer identifies the boolean expression and evaluates it as `FALSE`.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sqlcontext.git
+git clone https://github.com/cyra-a11/sqlcontext.git
 cd sqlcontext
 ```
 
